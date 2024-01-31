@@ -1,20 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ page.title }}</title>
-
-    {% include meta.html %}
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <!--<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />-->
-    <!--<link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" /> -->
+    <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="https://avheuv.github.io/astro/lesson-style.css">
     <script src="https://avheuv.github.io/astro/lesson.js"></script>
-    
+    <title>{{ page.title }}</title>
   </head>
   <body>
     <div class="w3-container">
@@ -23,7 +17,5 @@
     <hr>
     <p class="copyright">Copyright 2024 Andrew VandenHeuvel</p>
     </div>
-
-    {% include analytics.html %}
   </body>
 </html>
