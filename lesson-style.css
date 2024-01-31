@@ -15,14 +15,15 @@ p.copyright {
 div {
     
     padding-right:10px;
+    margin:auto;
+    width: 90%;
+    max-width: 850px;
 }
 
 ul {
     list-style-type: disc;
     padding-left:10px;
-    margin:auto;
-    width: 90%;
-    max-width: 850px; 
+    
 }
 
 li {margin-bottom:10px;}
