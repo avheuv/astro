@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Interstellar Matter Lesson Title
+title: Interstellar Matter
 ---
 
 - First bullet point
