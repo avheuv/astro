@@ -1,6 +1,6 @@
 ---
 layout: default
-title:
+title: Constellation Discussion
 ---
 
 - First bullet point
