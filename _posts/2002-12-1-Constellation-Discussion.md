@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: discussion
 title: Constellation Discussion
 ---
 
