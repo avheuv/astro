@@ -12,5 +12,5 @@ title: Moon Phases and Tides
 "If Jack and Jill are 20 feet apart" (this is like the moon phase)
 "and Jill is 5 feet from the tree" (this is like telling us where the moon is in the sky)
 "then Jack must be 25 feet from the tree." (this is like telling us what time it is because it tells us where the sun is in the sky).
-- (Optional) Movies and games often get the science wrong. I recently noticed this to be especially true while I was playing Fortnite with my son. They didn’t even get the basics about the moon’s motion correct. Watch Wow - Fortnite gets their astronomy really wrong to see what I mean. 
+- (Optional) Movies and games often get science concepts wrong. I recently noticed this to be especially true while I was playing Fortnite with my son. They didn’t even get the basics about the moon’s motion correct. Watch [Wow - Fortnite gets their astronomy really wrong](https://youtu.be/qD0n_he9lTg) to see what I mean. 
 - Explore [4.6 Ocean Tides and the Moon](https://openstax.org/books/astronomy-2e/pages/4-6-ocean-tides-and-the-moon) to understand how the Moon's gravitational pull creates ocean tides and the role of Earth's rotation in experiencing these tides.
