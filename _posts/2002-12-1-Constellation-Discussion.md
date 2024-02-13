@@ -4,9 +4,9 @@ title: Constellation Discussion
 ---
 
 You may be surprised to learn that astronomers, on average, know very few of the constellations in the night sky. The imaginary stick figures serve very little purpose in modern astronomy. Their value today lies primarily in their ability to help amateur astronomers point their telescopes in the right part of the sky. Ok, now I know what you're thinking. "What do you mean astronomers don't know the constellations!?! That's what I thought this whole course was about. I hate you!" Ok, maybe you're not thinking that exactly, but you're probably surprised that constellations just aren't that important in astronomy. Watch the teacher video Perspectives on Constellations for an explanation of why.
-![Alt Text](https://lh5.googleusercontent.com/0yhQMYU0TRWx0UwVX8vN7cCJ-4Z2X8OxyjOsFJF0BOZxkm43x1RJWLhciCD2rCV382BX6DqZuSIlhgvI4FkYSq0_5YAPzMUFlLfz7_qd3SKpjr2jmUmCdkiMj1NsUMEEeA=w1280)
 
-Play with Big Dipper 3D simulation to see how the actual stars that make up the big dipper are not as close to one another in 3D space as you might expect.
+![Alt Text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/WhiteHouseSouthFacade.JPG/1600px-WhiteHouseSouthFacade.JPG)
+
 
 So what about all those awesome stories - the mythology connected to the constellations. Do astronomers study that? No, I'm sorry. We don't. Check out the video What Disney's constellations can teach us about astronomy to see why.
 
