@@ -3,11 +3,8 @@ layout: default
 title: Star Wheels Discussion
 ---
 
-You may be surprised to learn that astronomers, on average, know very few of the constellations in the night sky. The imaginary stick figures serve very little purpose in modern astronomy. Their value today lies primarily in their ability to help amateur astronomers point their telescopes in the right part of the sky. Ok, now I know what you're thinking. "What do you mean astronomers don't know the constellations!?! That's what I thought this whole course was about. I hate you!" Ok, maybe you're not thinking that exactly, but you're probably surprised that constellations just aren't that important in astronomy. Watch the teacher video Perspectives on Constellations for an explanation of why.
+Let's be honest. One of the main reasons we want to study astronomy is so that we can impress our friends or woo a mate by pointing out constellations in the night sky. Well, here's your chance. For this discussion board post, I would like you to teach someone else how to use a star wheel. This could be a friend, a family member, your future soulmate - whatever. Go outside at night when it is clear, and show them how the star wheel works, pointing out a couple of bright stars and constellations. 
 
-![Alt Text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/WhiteHouseSouthFacade.JPG/1600px-WhiteHouseSouthFacade.JPG)
+You can create your star wheel [with paper and a printer](https://docs.google.com/document/d/1f7n2WbDqzkupEzLM81wDrNdBxdu6PxR5h_FtLyscIaA/edit?usp=sharing), or you can simply use [this digital star wheel](https://storage.googleapis.com/avh-agli/agli/starwheel/index.html). If necessary, you can [re-watch this teacher video](https://youtu.be/T3meP_c5Izw?si=3MXACxSKS9Ge8f8O) for instructions on assembling and using your star wheel.
 
-
-So what about all those awesome stories - the mythology connected to the constellations. Do astronomers study that? No, I'm sorry. We don't. Check out the video What Disney's constellations can teach us about astronomy to see why.
-
-All that said, I still want to provide you with the opportunity to learn how to find constellations in the night sky (even though it will not be a central part of our course). Watch the teacher video Finding Constellations, which shows you how to build and use a star chart to find constellations in the night sky. You can print your own star wheel using the directions How to Make a Star Wheel the Simple Way. A little later in this unit, I will also show you some free tools that can help you locate objects in the sky.
+Take a picture of yourself teaching someone else how to use your star wheel. In our course discussion board, post this photograph along with a brief description of what you were able to see in the sky together. Have fun!
