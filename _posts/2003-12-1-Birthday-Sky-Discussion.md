@@ -13,6 +13,7 @@ title: Birthday Sky Discussion
 2. In the discussion forum, post your screenshot and your observations. Make special note of anything interesting you noticed about the sky on the night you were born.
 
 For example, my post would be something like this: 
-[The Night Sky on Aug 6, 1982](https://storage.googleapis.com/avh-lessons/avh-bday-sky.png)
 
-On my birthday, the planets Jupiter, Saturn, and Mars
+![The Night Sky on Aug 6, 1982](https://storage.googleapis.com/avh-lessons/avh-bday-sky.png)
+
+On my birthday, the planets Jupiter, Saturn, and Mars were right next to each other in the sky, along with the bright star Spica.
