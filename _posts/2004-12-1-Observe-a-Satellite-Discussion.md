@@ -11,6 +11,6 @@ After observing your satellite, come back to the discussion board and share one 
 - A photograph (or link to a video) that you captured of the satellite you observed in the sky, or 
 - A written description and sketch of your satellite observation (When and where did you see it? How did its visibility compare to your expectations?), or
 - Share some details about the satellite you observed (What was it?, What does it look like up close?, Where was it launched from?), or 
-- What opinions do you have about the proliferation of satellites and its potential impact on astronomy. Here's [a NY Times story](https://www.nytimes.com/2023/04/17/science/astronomy-starlink-spacex-kuiper-amazon.html) about how mega constellations of satellites are impacting ground-based telescopes. 
+- What opinions do you have about the proliferation of satellites and its potential impact on astronomy. Here's [a NY Times story](https://drive.google.com/file/d/1pncNAE68YSxfxwxbJ8sFNj44vSiWxUem/view?usp=sharing) about how mega constellations of satellites are impacting ground-based telescopes. 
 
 You have a lot of choice in how you participate. I look forward to a lively discussion. 
