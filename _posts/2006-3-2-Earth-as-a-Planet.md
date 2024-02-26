@@ -11,3 +11,4 @@ title: Earth as a Planet
 - Explore [8.4 Life, Chemical Evolution, and Climate Change](https://openstax.org/books/astronomy-2e/pages/8-4-life-chemical-evolution-and-climate-change) to understand the origins of life, the impact of photosynthesis on atmospheric composition, and the role of greenhouse gases in climate change.
 - Watch the MinutePhysic video, [How Do Greenhouse Gases Really Work?](https://youtu.be/sTvqIijqvTg?si=-JfvPa3tI1HYCpuR)
 - Review [8.5 Cosmic Influences on the Evolution of Earth](https://openstax.org/books/astronomy-2e/pages/8-5-cosmic-influences-on-the-evolution-of-earth) for insights into the effects of cosmic impacts on Earth's history, including mass extinctions, and current efforts to predict and understand these events.
+- Explore this [List of Impact Craters on Earth](https://en.wikipedia.org/wiki/List_of_impact_structures_on_Earth) and follow some of the links to see images of the craters.  
