@@ -3,7 +3,7 @@ layout: default
 title: Compact Objects
 ---
 
-- When stars have exhausted all of their fuel, they end up as fascinating and unusual stars that we call “compact objects.” Watch the teacher video [Compact Objects](https://www.youtube.com/watch?v=F32m8k7Tihs) for an introduction to compact objects.
+- 
 - While we can confirm the existence of white dwarfs by taking pictures of them directly, the evidence for neutron stars was discovered by chance. Watch the video [What are Pulsars?](https://storage.googleapis.com/avh-astro-videos/What%20are%20pulsars_.webm), which recounts the discovery of “pulsars” and how they revealed direct evidence for the bizarre compact objects known as neutron stars.
 - Black holes can be created when just a single large star collapses after its supernova explosion, but astronomers have also seen evidence for so-called "supermassive black holes." These are enormous monsters with the gravity of over 3 million stars compressed into an infinitely tiny space. Watch the video [Monster of the Milky Way](https://drive.google.com/open?id=1CbI0NjgyMxRmLkxylyIgd0s1VScKX1jx), which shows how astronomers can prove that our own galaxy has a supermassive black hole, even though no one can see it directly. (Be sure to watch to the end of the video for the amazing proof that black holes exist.)
 - In 2019, a team of astronomers from around the world released the first picture ever showing a black hole. Strictly speaking, the image doesn’t show the black hole itself, but rather the light from the hot accretion disk around the black hole. Watch the news summary [First Image of a Black Hole](https://youtu.be/UlNYgSP9qNU) to learn about the discovery. This seems to be further irrefutable evidence that black holes are real.  
