@@ -3,6 +3,7 @@ layout: default
 title: Stellar Evolution
 ---
 
+- We have a surprisingly complete understanding of how stars change over time, even though they burn brightly for milions and billions of years. Watch this brief video where Carl Sagan concisely describes the [evolution of stars](https://www.youtube.com/watch?v=Hx8p8lEJyKI). 
 - Read [22.1 Evolution from the Main Sequence to Red Giants](https://openstax.org/books/astronomy-2e/pages/22-1-evolution-from-the-main-sequence-to-red-giants) to understand the evolution of stars from the main sequence to red giants, including changes in temperature, luminosity, and radius.
 - Explore [22.2 Star Clusters](https://openstax.org/books/astronomy-2e/pages/22-2-star-clusters) to learn about the three types of star clusters—globular, open, and associations—and their significance in testing theories of stellar evolution.
 - Review [22.3 Checking Out the Theory](https://openstax.org/books/astronomy-2e/pages/22-3-checking-out-the-theory) to understand how the H–R diagram of star clusters changes over time and how astronomers determine the age of a cluster.
