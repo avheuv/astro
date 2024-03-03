@@ -10,6 +10,4 @@ title: Stellar Evolution
 - Over time, more and more of the stars in a cluster become red giants. Watch this elegant video of the [Omega Centauri Cluster](https://www.youtube.com/watch?v=k22JBRGFpGQ), which shows how an HR Diagram can be constructed from an image of a star cluster.
 - Let's examine a few simulations showing how the evolution of a star cluster appears on an HR Diagram. Watch the teacher video [Star Evolution](https://www.youtube.com/watch?v=Wep8yBWr9RM).    
 - Read [22.3 Checking Out the Theory](https://openstax.org/books/astronomy-2e/pages/22-3-checking-out-the-theory) to review how the H–R diagram of star clusters changes over time and how astronomers determine the age of a cluster.
-- Explore [22.4 Further Evolution of Stars](https://openstax.org/books/astronomy-2e/pages/22-4-further-evolution-of-stars) to learn about the fusion processes in red giants, the helium flash, and the formation of planetary nebulae.
-- Read [22.5 The Evolution of More Massive Stars](https://openstax.org/books/astronomy-2e/pages/22-5-the-evolution-of-more-massive-stars) to understand how nuclear reactions in massive stars lead to the creation of heavy elements and the enrichment of interstellar space.
 
