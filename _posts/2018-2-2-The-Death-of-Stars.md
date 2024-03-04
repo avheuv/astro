@@ -10,6 +10,6 @@ title: The Death of Stars
 - Watch the Kurzgesagt video [White Dwarfs](https://youtu.be/qsN1LglrX9s?si=kfuVyYlm8CtRLIZE) for a lovely illustration of the evolution of low mass stars. 
 - To understand what is happening inside the final collapse of a star's core, we need to think about the actual atoms of gas within it. Watch the teacher video [Compact Objects](https://www.youtube.com/watch?v=F32m8k7Tihs) to see how gravity eventually tears apart the atoms of a dying star. 
 - Now let's examine what happens to larger stars when they die. Read [23.2 Evolution of Massive Stars: An Explosive Finish](https://openstax.org/books/astronomy-2e/pages/23-2-evolution-of-massive-stars-an-explosive-finish) to learn about the formation of neutron stars through supernova explosions.
-- Create a video on supernovas here, show the simulation, historical photos of supernovae, supernova remnants. Perhaps start with planetary nebula (low mass death) and then constrast to high mass death and supernovas. Also show pictrues of galaxies with stars going nova.
+- Watch the SciShow video [The Supernova of 1054](https://youtu.be/Bw-NtS3lM9w?si=O_ff562wVGasikGw) to learn about one of the rare nearby supernova events from history. 
 - Review [23.3 Supernova Observations](https://openstax.org/books/astronomy-2e/pages/23-3-supernova-observations) to understand the frequency of supernovae in the Milky Way Galaxy, the observation of SN 1987A, and the significance of supernova explosions in the universe.
 
