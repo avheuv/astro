@@ -4,9 +4,10 @@ title: The Death of Stars
 ---
 
 - Now let's consider what happens to stars as they approach the end of their lives. The final destination of a star depends entirely on its mass. Low-mass stars (like the sun) will shed their outer layers as a planetary nebulae while their cores collapses to form a white dwarf. Higher mass stars ultimately explode in a tremendous burst of energy called a supernova, leaving behing a cloud of debris and a core that has transformed into a bizarre new kind of object - either a neutron star or black hole.
-- Read [22.4 Further Evolution of Stars](https://openstax.org/books/astronomy-2e/pages/22-4-further-evolution-of-stars)
-- Watch the Kurzgesagt video [White Dwarfs](https://youtu.be/qsN1LglrX9s?si=kfuVyYlm8CtRLIZE) to learn what will happen to our sun when it dies.
+- First, let's consider the death of low-mass stars. Read [22.4 Further Evolution of Stars](https://openstax.org/books/astronomy-2e/pages/22-4-further-evolution-of-stars) to learn about the final stages of a sun-like star's life and how it can eventually become a planetary nebula. 
+
 - Read [23.1 The Death of Low-Mass Stars](https://openstax.org/books/astronomy-2e/pages/23-1-the-death-of-low-mass-stars) to understand how low-mass stars evolve into white dwarfs and eventually black dwarfs.
+- Watch the Kurzgesagt video [White Dwarfs](https://youtu.be/qsN1LglrX9s?si=kfuVyYlm8CtRLIZE) to learn what will happen to our sun when it dies.
 - Consider what is happening inside a star when it reaches the end of its life. Gravity gradually overtakes any outward force that may be holding up the star. Depending on the initial mass of the star, it will continue to collapse, forming a so-called "compact object" - these are some of the most fascinating and unusual objects in our entire universe. Watch the teacher video [Compact Objects](https://www.youtube.com/watch?v=F32m8k7Tihs) for a brief explanation of what is happening inside these dying stars. 
 - Read [23.2 Evolution of Massive Stars: An Explosive Finish](https://openstax.org/books/astronomy-2e/pages/23-2-evolution-of-massive-stars-an-explosive-finish) to learn about the fusion processes in massive stars and the formation of neutron stars through supernova explosions.
 - Create a video on supernovas here, show the simulation, historical photos of supernovae, supernova remnants. Perhaps start with planetary nebula (low mass death) and then constrast to high mass death and supernovas. Also show pictrues of galaxies with stars going nova.
