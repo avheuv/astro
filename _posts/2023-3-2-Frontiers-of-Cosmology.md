@@ -4,6 +4,7 @@ title: Frontiers of Cosmology
 ---
 
 - Read [29.5 What Is the Universe Really Made Of?](https://openstax.org/books/astronomy-2e/pages/29-5-what-is-the-universe-really-made-of) to learn about the composition of the universe, including the role of dark matter and ongoing efforts to detect weakly interacting massive particles (WIMPs).
+- Watch this brief video in which a panel of scientists discuss the ongoing [Search for WIMP Dark Matter](https://youtu.be/Ka-xxz6nMxU?si=oa1LKIBZbsOC96wr). 
 - Read [29.6 The Inflationary Universe](https://openstax.org/books/astronomy-2e/pages/29-6-the-inflationary-universe) to understand the concept of inflation, which proposes rapid expansion in the early universe, and its implications for cosmology.
 - Watch this brief video in which Alan Guth, the originator of inflation, explains [The Theory of Inflation](https://youtu.be/rEXDgpttmyc?si=KJiwpUSUAF0yuqk1).
 - One of the amazing features of our universe is that the constants of nature including the cosmological constants appear to be very precisely tuned to support the development of stars, planets, and ultimately life. Watch the video [The Fine Tuning of the Universe](https://www.youtube.com/watch?v=Rhbls0VQKPw).
