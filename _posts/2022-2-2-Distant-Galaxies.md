@@ -9,3 +9,4 @@ title: Distant Galaxies
 - Check out this incredible video, which compares [Simulations and Observations of Galaxy Collisions](https://youtu.be/C0XNyTp5brM?si=HRwxKNRwu6rlzJkR). (Note that there is no sound in the video.)
 - I can't resist sharing another awesome simulation - this one showing [Four Galaxies Merging](https://youtu.be/YCbIjZEtmcY?si=JLfBxOTCQvSzGiZk).
 - Review [28.3 The Distribution of Galaxies in Space](https://openstax.org/books/astronomy-2e/pages/28-3-the-distribution-of-galaxies-in-space) for an explanation of the cosmological principle, the structure of galaxy clusters and superclusters, and the distribution of galaxies in the universe.
+- Watch the SciShow Space clip [What if the Universe Isn't Uniform](https://youtu.be/YGVW4BaA0qA?si=ZJ1Fbcb62NCUFjGW) to learn more about the Cosmological Principle and recent observational challenges. 
