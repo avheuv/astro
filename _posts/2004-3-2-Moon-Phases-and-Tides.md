@@ -3,7 +3,7 @@ layout: default
 title: Moon Phases and Tides
 ---
 
-- The moon dominates our night sky, and the changing phase of the moon is one of the most striking changes we see from night to night. But there are other changes that are so small, you probably have never noticed them before. Watch the video [Understanding Moon Phases](https://youtu.be/k90b6FU7xIA?si=8EJIlgYlWn19Hs-g) to see them illustrated in Stellarium.
+- The moon dominates our night sky, and the changing phase of the moon is one of the most striking changes we see from night to night. But there are other changes that are so small that you probably have never noticed them before. Watch the video [Understanding Moon Phases](https://youtu.be/k90b6FU7xIA?si=8EJIlgYlWn19Hs-g) to see them illustrated in Stellarium.
 - Read [4.5 Phases and Motions of the Moon](https://openstax.org/books/astronomy-2e/pages/4-5-phases-and-motions-of-the-moon) to learn how the Moon's phases result from its changing illumination by the Sun.
 - Watch the teacher video [Moon Phases](https://www.youtube.com/watch?v=0exVkCIgZVQ) for a helpful summary of what you have read. If you like, you can experiment with the interactive [Lunar Phases Simulator](https://storage.googleapis.com/avh-agli/agli/sims/moon/index.html) for yourself. 
 - You've probably been learning about moon phases since grade school. Our goal in this lesson is to take our understanding a step further so that we can actually predict the moon's phase based on the time of day and the moon's location in the sky. The secret is to draw a picture. Watch the video [Moon Phase Drawings](https://youtu.be/BDveFEMjd3o) to see how I approach solving these kinds of moon phase questions.
