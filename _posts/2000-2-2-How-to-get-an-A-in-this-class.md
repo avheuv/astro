@@ -1,6 +1,10 @@
 ---
 layout: default
-title: How to get an A in this class
+title: How to Get an "A" in This Class
 ---
 
-- [First bullet point](https://www.youtube.com)
+- **Schedule Your Time:** You will have a lot of flexibility in this online course. That can be both a blessing and a curse. If you’re not careful, you will find yourself rushing to get work done at the last minute, and the quality of your work will suffer. If you want to get an “A” in this class, then you will want to schedule several chunks of time throughout the week where you focus solely on this course and making forward progress.
+- **Use Your Instructor:** I am here to help you succeed, but YOU need to take the first step. Reach out to me if you are confused, frustrated, or falling behind. There are a number of different ways that I can support you and clear up any confusion you may have. Please note that I’d also love to hear from you if everything is going GREAT in the class. Interacting with students is my favorite part about being a teacher, so please do reach out to me.
+- **Know the Course Policies:** Carefully read the course syllabus so that you are aware of all the course policies that may adversely (or positively) impact your grade. For example, can you answer the following questions: What is the penalty for late work? What resources can you use on quizzes/tests? Are there opportunities for extra credit?
+- **Use the Quizzes to Guide Your Learning:** You will find that the quizzes throughout this course are set to give you multiple attempts. This is a very intentional choice that I made as an instructor. If you use your quiz attempts wisely, you can learn from your mistakes, review the course content, and improve your score. Again, all of this goes back to giving yourself plenty of time to work on the course.
+- **Subscribe to the “AVH Astronomy” YouTube Channel:** I love using YouTube to host my astronomy videos for our class. Throughout the year, I frequently add new “fun” videos to the channel about science news, astronomy in pop culture, or just cool space things that students share with me. While these video updates won’t necessarily improve your grade in the class, they will make learning astronomy way more fun, so I encourage you to subscribe to the [AVH Astronomy YouTube Channel](https://www.youtube.com/avhastronomy) to stay connected to the latest space fun.  To subscribe, just click on the red "Subscribe" button while logged into your Google account.
