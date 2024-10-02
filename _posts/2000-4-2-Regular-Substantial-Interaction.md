@@ -8,4 +8,8 @@ title: Regular Substantial Interaction
 - I prefer to be contacted by the **Canvas Inbox**
 - I check messages daily, **Monday - Friday**, so you can rest assured that I will respond **within 24 hours** during the week.
 - I avoid working on the weekends, so if you message me on Saturday or Sunday, **I will not respond until Monday.**
-- If there is a true emergency, or you urgently need help to meet a due date, don't worry. Just send me a Canvas message like normal. I will respond and provide the flexibility you need. 
+- If there is a true emergency, or you urgently need help to meet a due date, don't worry. Just send me a Canvas message like normal. I will respond and provide the flexibility you need.
+#### How I Will Contact You
+- I prefer to be contacted by the **Canvas Inbox**
+- I check messages daily, **Monday - Friday**, so you can rest assured that I will respond **within 24 hours** during the week.
+- I avoid working on the weekends, so if you message me on Saturday
