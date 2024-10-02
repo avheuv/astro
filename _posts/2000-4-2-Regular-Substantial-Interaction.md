@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Regular Substantial Interaction
+title: Regular and Substantial Interaction
 ---
 
 - I love interacting with students (that's why I'm a teacher), and there are lots of ways for us to interact in this course. My goal is to maintain regular and substantial interaction with you, and this is how we will make sure that happens. 
