@@ -2,8 +2,7 @@
 layout: default
 title: Regular and Substantial Interaction
 ---
-
-- I love interacting with students (that's why I'm a teacher), and there are lots of ways for us to interact in this course. My goal is to maintain regular and substantial interaction with you, and this is how we will make sure that happens. 
+I love interacting with students (that's why I'm a teacher), and there are lots of ways for us to interact in this course. My goal is to maintain regular and substantial interaction with you, and this is how we will make sure that happens. 
 ## How You Can Contact Me
 - I prefer to be contacted by the **Canvas Inbox**
 - I check messages daily, **Monday - Friday**, so you can rest assured that I will respond **within 24 hours** during the week.
