@@ -2,9 +2,10 @@
 layout: default
 title: Regular and Substantial Interaction
 ---
-I love interacting with students (that's why I'm a teacher), and there are lots of ways for us to interact in this course. My goal is to maintain **regular and substantial interaction** with you, and this is how we will make sure that happens. 
+I love interacting with students (that's why I'm a teacher), and there are lots of ways for us to interact in this course. My goal is to maintain **regular and substantial interaction** with you, and this is how we will make sure that happens.  
 - I will post **weekly announcements** related to the course content
-- I will facilitate our **weekly discussions** in Canvas
+- I will **initiate contact** with you during the semester to check in on your progress and see if you have any questions.
+- I will participate in our **weekly discussions** in Canvas
 - I will moderate and respond to comments on my **video lectures + discussions** posted to YouTube
 - I will maintain an (optional) **weekly live Zoom session** for any students who would like to discuss the latest topics in our course
 ## How You Can Contact Me
