@@ -3,7 +3,7 @@ layout: default
 title: Regular and Substantial Interaction
 ---
 I love interacting with students (that's why I'm a teacher). Throughout this course, I will maintain "regular and substantial interaction" with you through the following activities:  
-- **Announcements:** I will regularly post class announcements that summarize key concepts, preview upcoming units, share current events in astronomy, and address trends that I am seeing in your coursework. 
+- **Announcements:** I will regularly post class announcements that summarize key concepts, preview upcoming units, share current events in astronomy, and address trends that I see in your coursework. 
 - **Discussions:** Engaging discussions are a cornerstone of this course. I will facilitate those discussions, sharing my own answers to the prompts, and commenting on your responses.
 - **Feedback & Monitoring:** I will initiate contact with you throughout the semester to provide you with personalized feedback on your coursework and to discuss your progress in the course.
 - **Office Hours:** I invite you to join me at my regularly scheduled office hours every Thursday at 4:00 pm.  We will meet in my [virtual office in Google Meet](https://meet.google.com/yoc-sytg-mvb). During this time, I can provide direct instruction and respond to questions about the course. If this schedule office hours time does not work for you, send me a message and we can arrange another time to meet.
