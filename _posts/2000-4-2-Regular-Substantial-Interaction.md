@@ -2,7 +2,7 @@
 layout: default
 title: Regular and Substantial Interaction
 ---
-I love interacting with students (that's why I'm a teacher). Throughout this course, I will maintain "regular and substantial interaction" with you through the following activities:  
+I love interacting with students (that's why I'm a teacher). Throughout this course, I will maintain "regular and substantial interaction" with you through:  
 - **Announcements:** I will regularly post class announcements that summarize key concepts, preview upcoming units, share current events in astronomy, and address trends that I see in your coursework. 
 - **Discussions:** I will facilitate our weekly discussions, ofering my perspective and feedback on the topics we discuss.
 - **Feedback & Monitoring:** I will initiate contact with you throughout the semester to provide you with personalized feedback on your coursework and to discuss your progress in the course.
