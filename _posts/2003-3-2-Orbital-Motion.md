@@ -15,7 +15,7 @@ title: Orbital Motion
 - **Important Update** - A few students have informed me that there are a couple of "broken questions" on our Unit 3 Quiz. I will be fixing them shortly, but if you happen to see one of the following three questions, you will neeed to select the corresponding answer to receive credit:
 - | Question Text | Choose This | Rationale |
 |---|---|---|
-| In Newton's Law of Gravity, the force of gravity goes up as the: | more than one of the above  | The question order is scrambled, but you should chose this answer. |
-| To figure out what you weigh on the surface of the Moon (how much gravity there pulls you downward), you need to know | just the size of the Moon's orbit around the Earth |This is not correct, but the quiz is currently marking this answer as correct. |
-| When a comet like Comet Hale-Bopp comes closest to the Sun in its orbit, we say that it is at: | the tail end of its journey | This is not correct, but the quiz is currently marking this answer as correct. |
+| "In Newton's Law of Gravity, the force of gravity goes up as the:" | "more than one of the above"  | The question order is scrambled, but you should chose this answer. |
+| "To figure out what you weigh on the surface of the Moon (how much gravity there pulls you downward), you need to know" | "just the size of the Moon's orbit around the Earth" |This is not correct, but the quiz is currently marking this answer as correct. |
+| "When a comet like Comet Hale-Bopp comes closest to the Sun in its orbit, we say that it is at:" | "the tail end of its journey" | This is not correct, but the quiz is currently marking this answer as correct. |
 
