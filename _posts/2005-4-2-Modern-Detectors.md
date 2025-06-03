@@ -3,6 +3,7 @@ layout: default
 title: Modern Detectors
 ---
 
+- **Survey:** We are nearly 1/3 of the way through our class, and I want to hear how it is going for you. Could you please take just a minute to complete [this student feedback form](https://forms.gle/qqVLVqcTFDFBYdUk8) - it is totally anonymous and really important to me - I read every response. Thank you. Ok, on to the rest of the lesson! 
 - Watch [Catching Starlight](https://youtu.be/7RxUA2UNWvI?si=ripTvxrZmSHs1sGh) - an excellent introduction to astronomical detectors from our friends at the European Southern Observatory.
 - Explore [6.3 Visible-Light Detectors and Instruments](https://openstax.org/books/astronomy-2e/pages/6-3-visible-light-detectors-and-instruments) to learn about the various types of visible-light detectors, including the human eye, photographic film, and CCDs.
 - Digital cameras have played an essential role in revolutionizing the science of astronomy. Watch the teacher video [CCDs, Pictures, and Pixels](https://www.youtube.com/watch?v=2T_ZP07lnRI), which describes how digital cameras work.
