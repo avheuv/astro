@@ -3,6 +3,7 @@ layout: default
 title: Frontiers of Cosmology
 ---
 
+- **How'd it go?** Well, here we are at the end of our class. I want to hear what you thought of it. Could you please take a minute to complete [this anonymous student feedback form](https://forms.gle/NWp6EZwzVEkLCvGx8)? Your feedback is really important to me, and it will help me continue to improve the course in the future.
 - Read [29.5 What Is the Universe Really Made Of?](https://openstax.org/books/astronomy-2e/pages/29-5-what-is-the-universe-really-made-of) to learn about the composition of the universe, including the role of dark matter and ongoing efforts to detect weakly interacting massive particles (WIMPs).
 - Watch this brief video in which a panel of scientists discuss the ongoing [Search for WIMP Dark Matter](https://youtu.be/Ka-xxz6nMxU?si=oa1LKIBZbsOC96wr). 
 - Read [29.6 The Inflationary Universe](https://openstax.org/books/astronomy-2e/pages/29-6-the-inflationary-universe) to understand the concept of inflation, which proposes rapid expansion in the early universe, and its implications for cosmology.
