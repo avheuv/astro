@@ -1,6 +1,6 @@
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
-# AVH Astronoym
+# AVH Astronomy
 This GitHub repository contains a complete astronomy curriculum for introductory college astronomy using the OpenStax Astronomy textbook. For a complete overview of the astronomy curriculum, visit the [AVH Astronomy Lesson Map](https://docs.google.com/spreadsheets/d/1orQJdoRHqWUyQ7PFhMyHYgDuacPxcG4ieX0bxUJ4KxI/edit?usp=sharing), which includes links to all of the lesson pages, lab activities, and instructions for making your own copy of this repository. 
 
 # Jekyll Now
